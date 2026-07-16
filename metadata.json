@@ -1,0 +1,6 @@
+{
+  "name": "Online Feedback System",
+  "description": "Allows users to submit feedback or complaints and admins to view, search, delete, and manage status (Pending, In Progress, Resolved) in a dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
